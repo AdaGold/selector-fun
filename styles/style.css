@@ -4,7 +4,7 @@
 /* Give the Header element a background color */
 
 
-/* Center Everything in Header */
+/* Center Everything in Header  and footer */
 
 
 /* All Text to Helvetica */
@@ -18,7 +18,11 @@
 
 /* All Links Visted Color black*/
 
+/*Footer Disclaimer Text (in P tag) to be .5 em*/
 
+footer p {
+  font-size: .5em;
+}
 /* Remove Bullet Points from Header Navigation Links */
 
 
@@ -33,13 +37,14 @@
 
 /* Article Paragraph Text should have line height of 200%*/
 
+
 /* The First Letter of each Article be 2em */
 
 
 /* The Top Cat Should have a Golden Background */
 
 
-/* Every other Article's Background Color to a Light Grey*/
+/* Every other Article's Post-Content Background Color to a Light Grey */
 
 
 /* All Top Kitten's Profile Photos Rounded */
