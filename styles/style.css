@@ -18,11 +18,10 @@
 
 /* All Links Visted Color black*/
 
-/*Footer Disclaimer Text (in P tag) to be .5 em*/
 
-footer p {
-  font-size: .5em;
-}
+/*Footer Disclaimer Text to be .5 em*/
+
+
 /* Remove Bullet Points from Header Navigation Links */
 
 
@@ -41,13 +40,25 @@ footer p {
 /* The First Letter of each Article be 2em */
 
 
-/* The Top Cat Should have a Golden Background */
+/* The First Image in every Article should have Rounded Corners*/
+
+
+/* The Top-Most Top Cat Should have a Golden Background */
+
+
+/* The 2nd-Most Top Cat Should have a Silver/gray Background */
+
+
+/* The 3rd-Most Top Cat Should have a Bronze/brown Background */
 
 
 /* Every other Article's Post-Content Background Color to a Light Grey */
 
 
 /* All Top Kitten's Profile Photos Rounded */
+
+
+/* Add a cat emoji before a Cat's Name (in the heading content)*/
 
 
 /* Use Google Fonts to Change h1 & h2 fonts to Lobster */
