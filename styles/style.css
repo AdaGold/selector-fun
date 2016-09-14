@@ -1,9 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 /*Without changing anything in the html, add the following styles using advanced selectors*/
 
 
 /* Give the Header element a background color */
 header{
-  background:pink;
+  background: pink;
 }
 
 /* Center Everything in Header and footer */
@@ -105,9 +106,17 @@ section.post-content img:nth-of-type(1){
 /*** BONUS ***/
 
 /* Add a cat emoji before a Cat's Name (in the heading content)*/
-
+/*See inside the html:
+<link href="https://afeld.github.io/emoji-css/emoji.css"
+<i class="em em-cat">*/
 
 /* Top-most Top Cat has a trophy emoji before name */
-
+/*See inside the html:
+<link href="https://afeld.github.io/emoji-css/emoji.css"
+<i class="em em-trophy"></i>*/
 
 /* Use Google Fonts to Change h1 & h2 fonts to Lobster */
+
+h1,h2{
+  font-family:lobster;
+}
