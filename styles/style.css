@@ -1,28 +1,28 @@
 /*Without changing anything in the html, add the following styles using advanced selectors*/
 
 
-/* Give the Header element a background color */
+/* Give the header element a background color */
 
 
-/* Center Everything in Header  and footer */
+/* Center everything in the header and footer */
 
 
-/* All Text to Helvetica */
+/* All text to Helvetica */
 
 
-/* All links colors gray*/
+/* All links default color is gray*/
 
 
-/* All links hover color red*/
+/* All links on hover color red*/
 
 
-/* All Links Visted Color black*/
+/* All Links visted color black*/
 
 
-/*Footer Disclaimer Text to be .5 em*/
+/* Footer disclaimer text to be .5 em*/
 
 
-/* Remove Bullet Points from Header Navigation Links */
+/* Remove bullet points from header navigation links */
 
 
 /* All Post's Comment Links Italicized, Orange and Remove the Underline */
@@ -34,7 +34,7 @@
 /* All Post's Author's Links Bold and Blue, with no Underline */
 
 
-/* Article Paragraph Text should have line height of 200%*/
+/* Article Paragraph Text should have line height of 200% */
 
 
 /* The First Letter of each Article be 2em */
@@ -66,4 +66,4 @@
 /* Top-most Top Cat has a trophy emoji before name */
 
 
-/* Use Google Fonts to Change h1 & h2 fonts to Lobster */
+/* Use Google Fonts to change h1 & h2 fonts to Roboto Slab */
